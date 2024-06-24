@@ -1,4 +1,2 @@
-The goal of this repository is to provide an insight of how I raise bugs in general and how I work.
-
-This collection only has bugs of games that were part of public Beta Testing or were released prior to my work.
-All other projects I am or have worked on are private and are only shared with the collaborators to secure the projects' confidentiality.
+The goal of this repository is to provide an insight of how I describe and raise bugs. 
+The bugs detailed in this repository are generalized and the footages or screenshots that were recorded to report the bug are removed to protect the anonymity of the games.
